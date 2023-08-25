@@ -1,4 +1,4 @@
 # apnaCollegeDemo
 This is my first Git Repository 
 <br>
-Author- Mehul Bauskar
+Author- Mehul Kumar Bauskar
